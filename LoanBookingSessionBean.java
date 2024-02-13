@@ -34,4 +34,7 @@ System.out.println();
 //function calling  
 printPattern(n);  
 }  
-}  
+}
+Adl- Yoga
+6380255997
+Contact No 
